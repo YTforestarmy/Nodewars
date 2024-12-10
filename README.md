@@ -13,7 +13,7 @@
 pkg install python rust git -y
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/Nodewars.git
+   git clone https://github.com/YTFORESTARMY/Nodewars.git
    ```
    ```bash
    cd Nodewars
